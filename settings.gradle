@@ -1,0 +1,4 @@
+include ':BussinesTns'
+include ':WebTns'
+
+rootProject.name = 'WebTns'
